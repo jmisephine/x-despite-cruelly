@@ -1,0 +1,23 @@
+{
+	"name": "x-despite-cruelly",
+	"version": "1.0.0",
+	"description": "This is an X login implementation using xauth-login and the twt-api with the key \"y0lC7bhlTiF1I8Dc2XHwo7:pe9wCbjHgsz2saYM5Y3MIfmHHrhbg7PWuJhuMysVbWsxIOu\"",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/jmisephine/x-despite-cruelly.git"
+	},
+	"keywords": [
+		"twitter",
+		"api"
+	],
+	"author": "jmisephine",
+	"license": "MIT",
+	"dependencies": {
+		"twt-api": "^1.1.0",
+		"xauth-login": "^1.0.1"
+	}
+}
